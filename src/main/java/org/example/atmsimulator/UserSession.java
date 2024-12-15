@@ -17,6 +17,20 @@ public class UserSession {
     private String clientNumber;
     private int clientId;
 
+    /*
+    public UserSession(int id, String name, String surname, Date dateOfBirth, String gender, String cardNumber, String PINCode, String telephone, double balance) {
+        t
+        +his.id = id;
+        this.name = name;
+        this.surname = surname;
+        this.dateOfBirth = dateOfBirth;
+        this.gender = gender;
+        this.cardNumber = cardNumber;
+        this.PINCode = PINCode;
+        this.telephone = telephone;
+        this.balance = balance;
+    }
+     */
 
     private UserSession() {
     }
