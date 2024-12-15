@@ -98,6 +98,7 @@ https://www.youtube.com/watch?v=ff5m1fSGVuw
 ---
 
 ## Presentation
+https://github.com/kafuteekito/ATMSimulator/blob/master/Avtomatizirovannyj-simulyator-bankomata-ATM%204.pptx
 
 ---
 
