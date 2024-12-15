@@ -90,10 +90,22 @@ The ATM Simulator is a virtual representation of the physical ATM machine, repli
 - **JDBC**  
 - **SQL**  
 
+---
+
+## Video
+https://www.youtube.com/watch?v=ff5m1fSGVuw
+
+---
+
+## Presentation
+
+---
+
 ## Diagrams
 ![Screenshot 2024-12-12 224414](https://github.com/user-attachments/assets/c8fa35b9-6b6b-467f-a0e8-0ce8f80053e8)
 ![Screenshot 2024-12-14 163644](https://github.com/user-attachments/assets/12b78443-fe40-401b-89c1-196b0d924f7a)
 
+---
 
 ## Screenshots
 ![Screenshot 2024-12-12 223855](https://github.com/user-attachments/assets/79533b26-82fe-4b3d-b97d-bf48f65f2b7e)
